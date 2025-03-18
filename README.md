@@ -1,19 +1,23 @@
-# Projeto App de Gerenciamento de Saldo
+# Balance Management App Project
 
-Este repositório contém um simples aplicativo web para gerenciar um saldo financeiro. Usuários podem adicionar valores ao saldo e resetar para zero quando necessário.
+This repository contains a simple web application for managing a financial balance. Users can add amounts to the balance and reset it to zero when necessary.
 
-## Descrição
+## Description
 
-O projeto utiliza HTML para a interface, com um campo de entrada para adicionar valores ao saldo, dois botões para atualizar e limpar o saldo, e um display onde o saldo atual é mostrado.
+The project uses HTML for the interface, with an input field for adding values to the balance, two buttons for updating and clearing the balance, and a display where the current balance is shown.
 
-## Funcionalidades
+## Features
 
-- **Adicionar ao Saldo**: Adiciona o valor especificado pelo usuário ao saldo total.
-- **Limpar Saldo**: Reseta o saldo total para zero.
+- **Add to Balance**: Adds the value specified by the user to the total balance.
+- **Clear Balance**: Resets the total balance to zero.
 
-## Estrutura do Projeto
+## Project Structure
 
-O código está organizado em dois arquivos principais:
+The code is organized into two main files:
 
-- **app.js**: Contém a lógica original do aplicativo, escrita em JavaScript.
-- **app.ts**: Versão corrigida e melhorada do `app.js`, escrita em TypeScript para melhorar a segurança e a manutenabilidade do código.
+- **app.js**: Contains the original logic of the application, written in JavaScript.
+- **app.ts**: A corrected and improved version of app.js, written in TypeScript to enhance the security and maintainability of the code.
+
+- ## 📸 Example
+
+![Task List App Demo](./mentoria-typescript-main-project.gif)
